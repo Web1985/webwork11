@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,KACI,yBACA,cAEJ,GACI","file":"style.css","sourcesContent":["body{\n    background-color: antiquewhite;\n    font-size: 1em;\n}\nh1{\n    color: aquamarine;\n\n}"]}
