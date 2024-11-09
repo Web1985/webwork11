@@ -1,0 +1,8 @@
+<?php
+/*
+*
+*/
+
+function mytestmodule_help() {
+
+}
