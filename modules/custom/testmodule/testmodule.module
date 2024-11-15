@@ -6,3 +6,15 @@
 function mytestmodule_help() {
 
 }
+
+function getFactorial(int $num ): int {
+ for ($i=1; $i<$num; $i++){
+    $num = $i;
+ }
+    return $num;
+}
+
+//print getFactorial(5);
+function testmodule_entity_load( array $entities, $entity_type_id ){
+
+}

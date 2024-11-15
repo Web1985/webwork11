@@ -1,0 +1,10 @@
+testmodule.content:
+  path: '/factoriale'
+  defaults:
+    _controller: '\Drupal\testmodule\Controller\TestFunctions\FactorialClass::content'
+    _title: 'Test page for my functions'
+    _form: '\Drupal\testmodule\Form\ColulateFactorialForm'
+  requirements:
+    _access: 'TRUE'
+  options:
+    no_cache: TRUE

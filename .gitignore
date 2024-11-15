@@ -8,3 +8,10 @@
 /sites/example.settings.local.php
 /sites/example.sites.php
 /sites/default/files/*
+/.csslintrc
+/.editorconfig
+/.eslintignore
+/.eslintrc.json
+/.gitattributes
+/.ht.router.php
+/.htaccess
