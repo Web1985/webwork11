@@ -1,0 +1,9 @@
+#Drupal
+/vendor
+/core
+/modules/contrib
+/profiles/README.txt
+/sites/development.services.yml
+/sites/example.settings.local.php
+/sites/example.sites.php
+/sites/default/files/*
