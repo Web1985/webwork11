@@ -2,6 +2,7 @@
 /vendor
 /core
 /modules/contrib
+/modules/contrib/*
 /profiles/README.txt
 /sites/development.services.yml
 /sites/example.settings.local.php
